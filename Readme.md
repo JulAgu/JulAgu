@@ -2,16 +2,12 @@
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/yasin-alhadi/">
+    <a href="https://www.linkedin.com/in/juliansagudelo/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.twitter.com/yasin_elhadi">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=YasinAlhadi&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
-    Hello, I'm Yasin Alhadi
+    Hello, I'm Julian Agudelo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
