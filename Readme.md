@@ -2,7 +2,8 @@
 
 I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.
 
-**My actual Interest**:
+**I’m currently interesting in:**
+
 - Data-mining and unsupeprvised learning.
 - Theoretical Machine Learning (learning theory).
 - Crop yield prediction using NN, especially CNN.
@@ -18,7 +19,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 
 ### Languages:
 
-![TypeScript](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23f1c232?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%2316537e?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
