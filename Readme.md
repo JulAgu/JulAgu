@@ -1,4 +1,4 @@
-### Hi there, I'm Julian Agudelo
+# Hi there, I'm Julian Agudelo
 
 I am a Last year Master's Engeneering ("Diplome d'engenieur") student at [AgroParisTech](https://www.agroparistech.fr/) and a last year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I also work as a data science intern at [Agrial]().
 
