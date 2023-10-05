@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Julian Agudelo 🌱
+<h1 align="center">Hi, I'm Julian Agudelo 🌱</h1> 
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>
 </div>
 
