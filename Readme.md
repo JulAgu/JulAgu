@@ -8,7 +8,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 
 **I’m currently interesting in:**
 
-- Data-mining and unsupeprvised learning.
+- Data-mining and unsupervised learning.
 - Theoretical Machine Learning (learning theory).
 - Crop yield prediction using NN, especially CNN.
 
