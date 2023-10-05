@@ -2,8 +2,9 @@
 <h1 align="center">Hi, I'm Julian Agudelo 🌱</h1> 
 <img  src="https://github.com/JulAgu/JulAgu/blob/main/Ressources/Tractor.gif"alt="snake" /></a>
 </div>
-
-I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.
+<div>
+<h2>I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.</h2>
+</div>
 
 **I’m currently interesting in:**
 
