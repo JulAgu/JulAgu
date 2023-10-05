@@ -1,26 +1,23 @@
-# Hi there, I'm Julian Agudelo
+# Hi there, I'm Julian Agudelo 🌱.
 
-I am a Last year Master's Engeneering ("Diplome d'engenieur") student at [AgroParisTech](https://www.agroparistech.fr/) and a last year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I also work as a data science intern at [Agrial]().
+I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.
 
-**My Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+**My actual Interest**:
+- Data-mining and no-supeprvised learning.
+- Theoretical Machine Learning (learning theory).
+- 
 
  **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Collobration work.
+- Machine learning projects.
+- Collaborative projects for the rural world 
+- Opportunities to pursue my path towards research in informatics.
 
 ## Skills:
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
@@ -28,7 +25,7 @@ I am a Last year Master's Engeneering ("Diplome d'engenieur") student at [AgroPa
 
 #### ML/DL
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
