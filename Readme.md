@@ -14,7 +14,6 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 
  **I'm open to**:
 
-- Collobration work.
 - Machine learning projects.
 - Collaborative projects for the rural world.
 - Opportunities to pursue my path towards research in informatics.
