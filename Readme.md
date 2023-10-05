@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Julian Agudelo 🌱</h1> 
-<img  src="[https://github.com/JulAgu/JulAgu/blob/main/Ressources/Tractor.gif](https://github.com/JulAgu/JulAgu/blob/main/Ressources/Hi.gif)" alt="Tractor"/></a>
+<img  src="[https://github.com/JulAgu/JulAgu/blob/main/Ressources/Tractor.gif](https://github.com/JulAgu/JulAgu/blob/main/Ressources/Hi.gif)"/></a>
   
 </div>
 
