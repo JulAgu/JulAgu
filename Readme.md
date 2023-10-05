@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Julian Agudelo 🌱</h1> 
-<img  src="https://github.com/JulAgu/JulAgu/blob/main/Ressources/Hi.gif" alt="Tractor"/></a>
+<img  src="https://github.com/JulAgu/JulAgu/blob/main/Ressources/Hi.gif" alt="Tractor" width="50"/></a>
   
 </div>
 
@@ -12,7 +12,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 - Theoretical Machine Learning (learning theory).
 - Crop yield prediction using NN, especially CNN.
 
- **I am open to**:
+ **I'm open to**:
 
 - Collobration work.
 - Machine learning projects.
