@@ -21,7 +21,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f1c232?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%2316537e?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -51,7 +51,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/juliansagudelo)
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.hackerrank.com/jsagudeloac)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=HackerRank&logoColor=white&color=black" />](https://www.hackerrank.com/jsagudeloac)
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/julagu)
 
 </p>
