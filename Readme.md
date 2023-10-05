@@ -1,4 +1,4 @@
-# Hi there, I'm Julian Agudelo 🌱.
+# Hi, I'm Julian Agudelo 🌱.
 
 I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Univertsité Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.
 
@@ -51,7 +51,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/juliansagudelo)
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=HackerRank&logoColor=white&color=black" />](https://www.hackerrank.com/jsagudeloac)
+[<img src="https://img.shields.io/badge/HackerRank-%2312100E.svg?&style=for-the-badge&logo=HackerRank&logoColor=white&color=black" />](https://www.hackerrank.com/jsagudeloac)
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/julagu)
 
 </p>
