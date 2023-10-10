@@ -6,7 +6,7 @@
 
 I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.
 
-**I’m currently interesting in:**
+**I’m currently interested in:**
 
 - Data-mining and unsupervised learning.
 - Theoretical Machine Learning (learning theory).
