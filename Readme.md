@@ -25,6 +25,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f1c232?style=for-the-badge&logo=TypeScript&logoColor=black)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%2316537e?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
 ### ML/DL Librarires:
@@ -46,6 +47,8 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 
 ### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-3776AB.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![R Studio](https://img.shields.io/badge/R%20Studio-3776AB.svg?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ### Other tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
