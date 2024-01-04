@@ -4,19 +4,19 @@
   
 </div>
 
-I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence, machine learning and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture field.
+I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
 
 **I’m currently interested in:**
 
 - Data-mining and unsupervised learning.
 - Theoretical Machine Learning (learning theory).
-- Crop yield prediction using NN, especially CNN.
+- Crop yield prediction using ML and NN architectures.
 
  **I'm open to**:
 
-- Machine learning projects.
+- Machine learning or Deep learning projects.
 - Collaborative projects for the rural world.
-- Opportunities to pursue my path towards research in informatics.
+- Opportunities to pursue my path towards research in informatics, bio-informatics or data science.
 
 ## Skills:
 
@@ -26,8 +26,6 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23f1c232?style=for-the-badge&logo=TypeScript&logoColor=black)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%2316537e?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### ML/DL Librarires:
 
@@ -48,6 +46,10 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 
 ### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Other tools
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📫 How to reach me:
 
