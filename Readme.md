@@ -12,7 +12,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 - Curriculum learning.
 - Expert Knowledge representation.
 
-**I’m currently Learning:**
+**I’m currently learning:**
 - Deep Reinforcement learning.
 
 **I’m currently working on:**
