@@ -7,15 +7,19 @@
 I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
 
 **I’m currently interested in:**
-- Data-mining and unsupervised learning.
 - Theoretical Machine Learning (learning theory).
-- Continual learning.
+- Transfer learning.
+- Curriculum learning.
+- Expert Knowledge representation.
+
+**I’m currently Learning:**
+- Deep Reinforcement learning.
 
 **I’m currently working on:**
-- Crop yield prediction using ML and DNN.
+- Crop yield prediction using hybrig neural models.
 
  **I'm open to**:
-- Machine learning or Deep learning projects.
+- Machine learning projects Deep learning .
 - Collaborative projects for the rural world.
 - Opportunities to pursue my path towards research in informatics, bio-informatics or data science.
 
