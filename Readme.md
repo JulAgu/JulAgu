@@ -19,7 +19,7 @@ I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingé
 - Crop yield prediction using hybrig neural models.
 
  **I'm open to**:
-- Machine learning projects Deep learning .
+- Machine learning projects.
 - Collaborative projects for the rural world.
 - Opportunities to pursue my path towards research in informatics, bio-informatics or data science.
 
