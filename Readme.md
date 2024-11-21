@@ -4,7 +4,7 @@
   
 </div>
 
-I am a final year student of a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a final year Master's student in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as a data science intern at [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
+I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a Master's Degree in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as Engineer in charge of developing the use of machine learning at the Agronomical Service of [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
 
 **I’m currently interested in:**
 - Theoretical Machine Learning (learning theory).
