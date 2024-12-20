@@ -15,7 +15,7 @@ I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Deg
 **I’m currently learning:**
 - Deep Reinforcement learning.
 - MLOps.
-- Astro (web framework).
+- C (sorcery).
 
 **I’m currently working on:**
 - Crop yield prediction using hybrid neural models.
