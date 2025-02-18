@@ -4,13 +4,14 @@
   
 </div>
 
-I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a Master's Degree in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as Engineer in charge of developing the use of machine learning at the Agronomical Service of [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
+I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a Master's Degree in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as Machine Learning Engineer at the Agronomical Service of [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
 
 **I’m interested in:**
 - Theoretical Machine Learning (learning theory).
 - Transfer learning.
 - Curriculum learning.
 - Expert Knowledge representation.
+- Multi-agent Systems.
 
 **I’m currently learning:**
 - Deep Reinforcement learning.
@@ -25,7 +26,6 @@ I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Deg
  **I'm open to**:
 - Machine learning projects.
 - Collaborative projects for the rural world.
-- Opportunities to pursue my path towards research in informatics, bio-informatics or data science.
 
 ## Skills:
 
