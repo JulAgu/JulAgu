@@ -16,6 +16,7 @@ I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Deg
 **I’m currently learning:**
 - Deep Reinforcement learning.
 - MLOps.
+- Java. 
 - C (sorcery).
 
 **I’m currently working on:**
