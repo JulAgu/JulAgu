@@ -23,6 +23,7 @@ I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Deg
 - Crop yield prediction using hybrid neural models.
 - Drought prediction using hybrid neural models.
 - Physics-informed neural networks.
+- Multi-agent systems powered by LLMs.
 
  **I'm open to**:
 - Machine learning projects.
