@@ -4,7 +4,11 @@
   
 </div>
 
-I am an Agricultural Engineer ([UNAL](https://unal.edu.co/)) with a Master's Degree in Engineering ("Diplôme d'ingénieur") at [AgroParisTech](https://www.agroparistech.fr/) and a Master's Degree in Bio-informatics at [Université Paris Saclay](https://www.universite-paris-saclay.fr/). I'm currently working as Machine Learning Engineer at the Agronomical Service of [Agrial](https://www.agrial.com/). I am an artificial intelligence and problem-solving enthusiast, and although I work on all kinds of projects, I have a special affinity with the agriculture and biological field.
+I am a PhD student in Informatics - Machine Learning. My research focuses on Hybrid Physical Models and Multi-agent simulations with applications in agronomy and logistics.
+
+I am affiliated to the research unit [UMR MIA](https://mia-ps.inrae.fr/) (Mathématique et Informatique Appliquées), within team [EkINocs](https://mia-ps.inrae.fr/ekinocs) (Expert Knowledge, INteractive modellINg and learnINg for understandINg and decisiOn makINg in dINamic Complexe Systems). My research is conducted under the supervision of [Cristina Manfredotti](https://mia-ps.inrae.fr/cristina-manfredotti), with co-advisors [Vincent Guigue](https://vguigue.github.io/) and [Evelyne Lutton](http://evelyne.lutton.free.fr/).
+
+Given the industrial focus of my PhD, I implement part of my research as on-demand products as Machine Learning research officer at [Agrial](https://www.agrial.com/).
 
 **I’m interested in:**
 - Theoretical Machine Learning (learning theory).
