@@ -11,6 +11,7 @@ I am affiliated to the research unit [UMR MIA](https://mia-ps.inrae.fr/) (Mathé
 Given the industrial focus of my PhD, I implement part of my research as on-demand products as Machine Learning research officer at [Agrial](https://www.agrial.com/).
 
 **I’m interested in:**
+- Time Series.
 - Theoretical Machine Learning (learning theory).
 - Transfer learning.
 - Curriculum learning.
@@ -20,7 +21,7 @@ Given the industrial focus of my PhD, I implement part of my research as on-dema
 **I’m currently learning:**
 - Deep Reinforcement learning.
 - MLOps.
-- Java. 
+- Java.
 - C (sorcery).
 
 **I’m currently working on:**
