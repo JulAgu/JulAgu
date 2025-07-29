@@ -6,9 +6,9 @@
 
 I am a PhD student in Informatics - Machine Learning. My research focuses on Hybrid Physical Models and Multi-agent simulations with applications in agronomy and logistics.
 
-I am affiliated to the research unit [UMR MIA](https://mia-ps.inrae.fr/) (Mathématique et Informatique Appliquées), within team [EkINocs](https://mia-ps.inrae.fr/ekinocs) (Expert Knowledge, INteractive modellINg and learnINg for understandINg and decisiOn makINg in dINamic Complexe Systems). My research is conducted under the supervision of [Cristina Manfredotti](https://mia-ps.inrae.fr/cristina-manfredotti), with co-advisors [Vincent Guigue](https://vguigue.github.io/) and [Evelyne Lutton](http://evelyne.lutton.free.fr/).
+I am affiliated to the research unit [UMR MIA](https://mia-ps.inrae.fr/) (Mathématique et Informatique Appliquées), within team [EkINocs](https://mia-ps.inrae.fr/ekinocs) (Expert Knowledge, INteractive modellINg and learnINg for understandINg and decisiOn makINg in dINamic Complex Systems). My research is conducted under the supervision of [Cristina Manfredotti](https://mia-ps.inrae.fr/cristina-manfredotti), with co-advisors [Vincent Guigue](https://vguigue.github.io/) and [Evelyne Lutton](http://evelyne.lutton.free.fr/).
 
-Given the industrial focus of my PhD, I implement part of my research as on-demand products as Machine Learning research officer at [Agrial](https://www.agrial.com/).
+Given the industrial focus of my PhD, I translate my research into on-demand solutions as a Machine Learning Research Officer at [Agrial](https://www.agrial.com/).
 
 **I’m interested in:**
 - Time Series.
