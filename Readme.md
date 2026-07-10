@@ -25,10 +25,9 @@ Given the industrial focus of my PhD, I translate my research into on-demand sol
 - C (sorcery).
 
 **I’m currently working on:**
+- Time Series representation learning.
+- Physics-Guided neural networks.
 - Crop yield prediction using hybrid neural models.
-- Drought prediction using hybrid neural models.
-- Physics-informed neural networks.
-- Multi-agent systems powered by LLMs.
 
  **I'm open to**:
 - Machine learning projects.
