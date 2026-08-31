@@ -4,7 +4,7 @@
   
 </div>
 
-I am a PhD student in Informatics - Machine Learning. My research focuses on Knowledge-guided Machine Learning with applications in agronomy and logistics.
+I am a PhD student in Computer Science - Machine Learning. My research focuses on Knowledge-Guided Machine Learning and Time Series Representation Learning with applications in agronomy and logistics.
 
 I am affiliated to the research unit [UMR MIA](https://mia-ps.inrae.fr/) (Mathématique et Informatique Appliquées), within team [EkINocs](https://mia-ps.inrae.fr/ekinocs) (Expert Knowledge, INteractive modellINg and learnINg for understandINg and decisiOn makINg in dINamic Complex Systems). My research is conducted under the supervision of [Cristina Manfredotti](https://mia-ps.inrae.fr/cristina-manfredotti), with co-advisors [Vincent Guigue](https://vguigue.github.io/) and [Evelyne Lutton](http://evelyne.lutton.free.fr/).
 
